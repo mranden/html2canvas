@@ -1,4 +1,4 @@
-# html2canvas
+# html2canvasss
 
 This project is a fork of [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas). It fixs some bugs, and adds some features.
 
